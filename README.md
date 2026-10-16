@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/vimaldoshi08-maker/DSA/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/vimaldoshi08-maker/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/vimaldoshi08-maker/DSA/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
@@ -31,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/vimaldoshi08-maker/DSA/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/vimaldoshi08-maker/DSA/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vimaldoshi08-maker/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/vimaldoshi08-maker/DSA/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
