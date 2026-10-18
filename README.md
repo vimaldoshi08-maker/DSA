@@ -7,6 +7,7 @@
 | [0018-4sum](https://github.com/vimaldoshi08-maker/DSA/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/vimaldoshi08-maker/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/vimaldoshi08-maker/DSA/tree/master/0053-maximum-subarray) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vimaldoshi08-maker/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vimaldoshi08-maker/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/vimaldoshi08-maker/DSA/tree/master/0141-linked-list-cycle) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vimaldoshi08-maker/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +65,12 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/vimaldoshi08-maker/DSA/tree/master/0018-4sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vimaldoshi08-maker/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vimaldoshi08-maker/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
