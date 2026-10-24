@@ -73,4 +73,20 @@
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vimaldoshi08-maker/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/vimaldoshi08-maker/DSA/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/vimaldoshi08-maker/DSA/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/vimaldoshi08-maker/DSA/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/vimaldoshi08-maker/DSA/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
