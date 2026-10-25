@@ -7,6 +7,7 @@
 | [0018-4sum](https://github.com/vimaldoshi08-maker/DSA/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/vimaldoshi08-maker/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/vimaldoshi08-maker/DSA/tree/master/0053-maximum-subarray) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vimaldoshi08-maker/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vimaldoshi08-maker/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vimaldoshi08-maker/DSA/tree/master/0053-maximum-subarray) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vimaldoshi08-maker/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/vimaldoshi08-maker/DSA/tree/master/0404-sum-of-left-leaves) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vimaldoshi08-maker/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
